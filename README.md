@@ -2,14 +2,14 @@
 
 * Contributors: tommcfarlin
 * Requires at least: 4.0.1
-* Tested up to: 4.0.1
+* Tested up to: 4.8.0
 * Stable tag: 1.0.0
 * License: GPLv2 or later
 * License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 ## About This Plugin
 
-Demonstrates how to create custom taxonomies using the WordPress API. Showcases both hierarchical and non-hierarchical taxonomies.
+Basic demostrcuture(one of many) to create a Plugin with DB installation in Wordpress.
 
 ## Installation
 
@@ -18,9 +18,3 @@ Demonstrates how to create custom taxonomies using the WordPress API. Showcases 
 3. Activate the plugin through the 'Plugins' menu in WordPress
 
 ### Changelog
-
-#### 1.0.1
-* Fixing a minor typo in `README.md`
-
-#### 1.0
-* Initial release
